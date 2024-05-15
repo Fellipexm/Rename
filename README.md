@@ -1,1 +1,1 @@
-"# Rename" 
+Este software é uma ferramenta simples para renomear arquivos em um diretório específico. Ele adiciona um prefixo seguido de um número sequencial aos nomes dos arquivos. A função renomear_arquivos recebe dois parâmetros: o diretório onde os arquivos estão localizados e o prefixo a ser adicionado aos nomes dos arquivos renomeados.
